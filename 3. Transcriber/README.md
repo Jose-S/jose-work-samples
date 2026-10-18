@@ -51,7 +51,7 @@ _Uploading audio recordings to a new project._
 ![Transcribing Control Menus](./screens/Transcriber_Menus.png)
 _Audio playback controls allow researchers to adjust the transcription pace, from sentence-level playback for faster transcription to word-level playback for more detailed listening._
 
-[Watch the phrase transcription prototype](./Transcribing%20Workflow%20Prototype.mov)
+[Watch the phrase transcription prototype](./Transcribing_Workflow_Prototype_wAUDIO.mp4)
 
 ### 2. Reviewing
 
@@ -78,7 +78,7 @@ _Contextual menu for assigning existing codes or creating new ones._
 
 Explore the research, design iterations, and interactive prototypes developed throughout the project.
 
-- **[Design Process & Early Prototypes](./Transcriber_Prototype_Report.pdff)** — User flows, sketches, paper prototypes, and initial usability testing.
+- **[Design Process & Early Prototypes](./Transcriber_Prototype_Report.pdf)** — User flows, sketches, paper prototypes, and initial usability testing.
 - **[Design & Evaluation Report](./Transcriber_Report.pdf)** — Prototype evaluations, design decisions, and final interface iterations.
 - **[User Flow Diagrams](./Transcriber_User_Flows.pdf)** — Existing and proposed workflows for transcription and qualitative data organization.
 - **[Interactive Interface Design — Figma](https://www.figma.com/design/SJgccghop6rfPUdPKvSH28/Web?node-id=0-1&t=ljHVa8d8Q2NMOuej-1)** — Explore the interface design.

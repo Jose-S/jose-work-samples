@@ -23,7 +23,7 @@ Private Gallery addressed this particular stage of the service. Curators could a
 
 The Curation Team approached me while working with external developers on a tool inspired by existing art-gallery platforms. They needed clearer requirements and interface mockups, but recreating a full-featured platform was beyond the project's budget and technical scope.
 
-Through informal conversations, observation of the team's workflow, and a review of client email chains, we identified a more focused opportunity: the repetitive exchange of artwork presentations and revisions after curators had already chosen pieces for a client. Together, we narrowed the project to this selection stage, where a modest intervention could ease a recurring source of friction.
+Through informal conversations, observation of the team's workflow, and a review of client email chains, we identified a more focused opportunity: simplify the repetitive exchange of artwork presentations and revisions between curators and clients. Together, we narrowed the project to this selection stage, where a modest intervention could ease a recurring source of friction.
 
 I designed the client experience around **one clear task: making and submitting an artwork selection**. Rather than adding account management or automating the entire leasing service, the interface kept browsing, artwork details, and selection editing straightforward. This limited scope also made the experience more feasible to implement within the existing Salesforce architecture and available development resources.
 

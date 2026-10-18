@@ -50,7 +50,7 @@ A successful upload returns the original file and a processed CSV formatted for 
 ![Client Upload Error](./screens/Gryphon_Client_Upload_Erorr.png)
 _Upload feedback and downloadable error records support correction outside the application._
 
-[Watch the client upload workflow](./Gryphon_Client_Upload_Flow.mov)
+[Watch the client upload workflow](./Gryphon_Client_Upload_Flow.mp4)
 
 ### Client Details
 

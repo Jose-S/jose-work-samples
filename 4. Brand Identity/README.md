@@ -49,7 +49,7 @@ After designing the 2024 conference identity, I was commissioned to develop a ne
 
 The event team wanted to retain the illustration-led approach of the previous year, but move away from its brighter neon palette and place greater emphasis on community. Photography was outside the budget, while abstract data visualization felt too impersonal for the event they envisioned. I developed a character-driven identity that put people not data at the center of the story.
 
-The system combined expressive illustrations, an updated color palette, and a playful animated logo. The finished identity appeared across a limited set of conference touchpoints, reflecting the event's production budget. I also delivered individual illustrations and reusable assets so the team could extend the system on its own.
+The system combined expressive illustrations, an updated color palette, and a playful animated logo. The finished identity appeared across a limited set of conference touchpoints, reflecting the event's production budget. I also delivered individual illustrations and reusable assets so the team could extend the system on their own.
 
 ![BARI 2025 logo](./Bari/BARi_2025_Logo.png)
 
